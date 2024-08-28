@@ -1,0 +1,13 @@
+.btn{
+    height:'48px';
+    width:'224px';
+    background-color:#ffe600;
+     color:'#fff';
+      border:'none'
+}
+.btn:hover{
+background-color:white;
+color:black;
+font-weight: bold;
+border:2px solid #ffe600
+}

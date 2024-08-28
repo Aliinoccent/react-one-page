@@ -1,0 +1,12 @@
+.link:hover{
+color:'yellow'
+}
+.link{
+    text-decoration: none;
+    color:'black';
+    background-color: 'red';
+
+}
+.navi{
+    position:sticky;
+}

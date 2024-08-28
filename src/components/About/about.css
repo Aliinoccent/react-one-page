@@ -1,0 +1,17 @@
+
+.imageBox{
+    position: relative;
+}
+
+.imageBox:after{
+    content: '';
+    position: absolute;
+    width: 294px;
+    height: 68px;
+    background-color: #fee100;
+    z-index: 1;
+    padding: 30px;
+    bottom: 0px;
+    left: 0px;
+    
+}
