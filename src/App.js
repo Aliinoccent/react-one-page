@@ -5,16 +5,19 @@ import Work from "./components/Work/work";
 import Btn from "./components/button/button";
 import Slider from "./components/slider/slider";
 import About from "./components/About/about";
+import Blog from "./components/blog/blog";
 
 function App() {
   return (
     <div className="App">
-      <Navbar></Navbar>
-      <Home></Home>
-      <Work></Work>
-      <Btn></Btn>
-      <Slider></Slider>
-      <About/>
+     
+      <Navbar />
+      <Home />
+      <Work />
+      <Btn />
+      <Slider />
+      <About />
+      <Blog />
     </div>
   );
 }
